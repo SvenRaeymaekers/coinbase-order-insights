@@ -1,4 +1,4 @@
-# coinbase-order-insights
+# coinbase-pro-portfolio-insights
 TODO: write complete readme
 
 I realized that I am calculating my required portfolio insights manually each week/month for my coinbase pro portfolio investments.
